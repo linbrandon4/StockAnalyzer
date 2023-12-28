@@ -1,6 +1,9 @@
 **Stock Selection:** The application allows users to choose from popular stocks such as GOOG, AAPL, MSFT, and GME for detailed analysis.
+
 **Timeframe Analysis:** It works with stock data ranging from January 1, 2015, to the present day, providing a comprehensive view over a significant time span.
+
 **Advanced Forecasting:** Employs Facebook's Prophet library, renowned for its accuracy and efficiency in forecasting time series data, particularly for stock prices.
+
 **Interactive Visualization:** Incorporates Plotly for generating interactive and informative graphs, enabling users to visually grasp stock trends and forecasts.
 
 **Future Implications:**
