@@ -7,6 +7,7 @@
 **Interactive Visualization:** Incorporates Plotly for generating interactive and informative graphs, enabling users to visually grasp stock trends and forecasts.
 
 **Future Implications:**
+
 **Enhanced Data Sources:** Expanding the range of stock exchanges and international markets covered would make the tool more comprehensive and globally applicable.
 
 **Improved Prediction Models:** Integrating advanced machine learning algorithms, like neural networks, could significantly boost the accuracy of stock price forecasts.
